@@ -1,0 +1,73 @@
+.contact-us div.wpforms-container-full .wpforms-form input[type=text],
+.big-title-widget div.wpforms-container-full .wpforms-form input[type=text],
+.contact-us div.wpforms-container-full .wpforms-form input[type=email],
+.big-title-widget div.wpforms-container-full .wpforms-form input[type=email],
+.contact-us div.wpforms-container-full .wpforms-form textarea,
+.big-title-widget div.wpforms-container-full .wpforms-form textarea {
+    border-radius: 4px;
+    padding: 9px 9px 9px 15px;
+    font-size: 14px;
+    background-color: rgba(255, 255, 255, 0.95);
+}
+
+.contact-us div.wpforms-container-full .wpforms-form .wpforms-submit-container,
+.big-title-widget div.wpforms-container-full .wpforms-form .wpforms-submit-container {
+    text-align: right;
+}
+
+.contact-us div.wpforms-container-full .wpforms-form .wpforms-submit-container .wpforms-submit,
+.big-title-widget div.wpforms-container-full .wpforms-form .wpforms-submit-container .wpforms-submit {
+    background-color: #e96656;
+    border-width: 0;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 13px 35px 13px 35px;
+}
+
+.contact-us div.wpforms-container-full .wpforms-form .wpforms-submit-container .wpforms-submit:hover,
+.big-title-widget div.wpforms-container-full .wpforms-form .wpforms-submit-container .wpforms-submit:hover {
+    background-color: #cb4332;
+    border-width: 0;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 13px 35px 13px 35px;
+}
+
+.contact-us .wpforms-field-label,
+.big-title-widget .wpforms-field-label,
+.contact-us .wpforms-field-description,
+.big-title-widget .wpforms-field-description,
+.contact-us .wpforms-field-sublabel,
+.big-title-widget .wpforms-field-sublabel,
+.contact-us .wpforms-field-checkbox,
+.big-title-widget .wpforms-field-checkbox,
+.contact-us .wpforms-field-radio,
+.big-title-widget .wpforms-field-radio,
+.contact-us .wpforms-image-choices-none label,
+.big-title-widget .wpforms-image-choices-none label {
+    color: rgba(255, 255, 255, 0.95);
+    text-align: left;
+}
+
+.contact-us .wpforms-field-checkbox .wpforms-image-choices,
+.big-title-widget .wpforms-field-checkbox .wpforms-image-choices,
+.contact-us .wpforms-field-radio .wpforms-image-choices,
+.big-title-widget .wpforms-field-radio .wpforms-image-choices{
+    color: #404040;
+}
+
+.contact-us div.wpforms-container-full .wpforms-form ul.wpforms-image-choices-classic .wpforms-selected label,
+.big-title-widget div.wpforms-container-full .wpforms-form ul.wpforms-image-choices-classic .wpforms-selected label {
+    border-color: #e96656;
+}
+
+.contact-us div.wpforms-container-full .wpforms-form label.wpforms-error,
+.big-title-widget div.wpforms-container-full .wpforms-form label.wpforms-error{
+    font-weight: bold;
+    color: red;
+    font-size: 14px
+}
