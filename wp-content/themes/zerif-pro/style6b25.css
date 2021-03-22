@@ -1782,7 +1782,7 @@ header.header {
 	text-align: center;
 }
 .navbar-brand > a > img {
-	max-height: 48px;
+	max-height: 47px;
 }
 .navbar-brand .site-title-tagline-wrapper {
 	display: inline-block;
@@ -3453,7 +3453,7 @@ article .posted-on a:hover{
 }
 .content-left-wrap,
 .content-right-wrap{
-	padding-top: 60px;
+	padding-top: 20px;
 }
 .sidebar-wrap.content-left-wrap,
 .sidebar-wrap.content-right-wrap{
