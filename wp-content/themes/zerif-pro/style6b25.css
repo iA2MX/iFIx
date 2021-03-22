@@ -1782,7 +1782,7 @@ header.header {
 	text-align: center;
 }
 .navbar-brand > a > img {
-	max-height: 62px;
+	max-height: 48px;
 }
 .navbar-brand .site-title-tagline-wrapper {
 	display: inline-block;
